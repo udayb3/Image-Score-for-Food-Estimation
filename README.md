@@ -8,6 +8,7 @@ This repository contains notebooks and code of the project in the Digital Image 
 ---
 
 ## Directory Structure
+```
 Image-Score-for-Food-Estimation
 ├── blur-estimation
 │   └── blurDetection.ipynb
@@ -16,7 +17,7 @@ Image-Score-for-Food-Estimation
 │   └── marker_detection_final.ipynb
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Project Overview
 
